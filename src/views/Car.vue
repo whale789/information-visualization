@@ -7,7 +7,7 @@ export default {
   name: 'Car',
   data () {
     return {
-      msg: 'Welcome to Your Vue'
+      msg: '分支测试'
     }
   }
 }
